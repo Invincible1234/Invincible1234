@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeet+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+Enthusiast;Building+Intelligent+Software" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeet+%F0%9F%91%8B;CS+Student+%7C+AI[...]
 
 </div>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at San Jose State University** passionate about building intelligent systems that solve real-world problems. My interests span **AI/ML**, **quantitative finance**, **backend development**, and **full-stack applications**.
+I'm a **Computer Science student at San Jose State University** passionate about building intelligent systems that solve real-world problems. My interests span **AI/ML**, **quantitative finance**,[...]
 
 Currently grinding through **algorithms, data structures**, and **machine learning fundamentals** while exploring how AI can revolutionize finance, computer vision, and real-world problem-solving.
 
@@ -191,9 +191,9 @@ Intelligent pantry and grocery management system:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Invincible1234&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Invincible1234&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&hide_bor[...]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible1234&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible1234&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide_border=tru[...]
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Invincible1234&theme=tokyonight&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=00D9FF)
 
@@ -226,10 +226,9 @@ Current Phase: Advanced Development & Research
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=black)](https://your-portfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Invincible1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-vyas-7a6397256/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeetvyas350@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/xialing7272/)
 
 **Open to**: Internships | Collaborations | Exciting projects at the intersection of AI, Finance & Software Engineering
 
