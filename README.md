@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeet+%F0%9F%91%8B;CS+Student+%7C+AI[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeet+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+Enthusiast;Building+Intelligent+Software" alt="Typing Animation"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at San Jose State University** passionate about building intelligent systems that solve real-world problems. My interests span **AI/ML**, **quantitative finance**,[...]
+I'm a **Computer Science student at San Jose State University** passionate about building intelligent systems that solve real-world problems. My interests span **AI/ML**, **quantitative finance**, and **full-stack software engineering**. I'm driven by curiosity, rigorous problem-solving, and the challenge of turning complex ideas into clean, efficient code.
 
 Currently grinding through **algorithms, data structures**, and **machine learning fundamentals** while exploring how AI can revolutionize finance, computer vision, and real-world problem-solving.
 
