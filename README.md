@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+Enthusiast;Building+Intelligent+Software" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeet+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+Enthusiast;Building+Intelligent+Software" alt="Typing Animation"/>
 
 </div>
 
