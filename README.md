@@ -226,7 +226,6 @@ Current Phase: Advanced Development & Research
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-vyas-7a6397256/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeetvyas350@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/xialing7272/)
 
 **Open to**: Internships | Collaborations | Exciting projects at the intersection of AI, Finance & Software Engineering
 
