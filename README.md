@@ -191,9 +191,7 @@ Intelligent pantry and grocery management system:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Invincible1234&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&hide_bor[...]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible1234&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide_border=tru[...]
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Invincible1234&theme=tokyonight&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=00D9FF)
 
